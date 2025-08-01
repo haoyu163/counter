@@ -1,3 +1,5 @@
 # counter
 useless counter (just for fun)
-https://github.com/haoyu163/counter.git
+
+
+https://haoyu163.github.io/counter/
